@@ -1,3 +1,4 @@
 # php-date-time
-This is only PHP Date &amp; Time Example
-Like getting the current date and time according to the Time Zone Regional.
+Ini hanya Contoh sederhana PHP Date &amp; Time, seperti mendapatkan Date &amp; Time sesuai dengan Waktu Zone Daerah, lalu penambahan dan pengurangan Tanggal maupun Waktu.<br />
+<br />
+Info lebih lanjut kunjungi : <a href="http://www.materi-it.com/">http://www.materi-it.com/</a>
